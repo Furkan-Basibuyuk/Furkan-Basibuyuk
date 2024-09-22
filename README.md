@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Furkan Başıbüyük
 - 👀 I’m interested in Math,Pyhsics,Music and Coding
-- 🌱 I’m Cs sophpmpre at Bilkent University
+- 🌱 I’m Cs junior at Bilkent University
 - 📫 You can reach me by furkanbasibuyuk19@gmail.com
 -
 
