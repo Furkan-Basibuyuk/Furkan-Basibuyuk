@@ -2,7 +2,6 @@
 - 👀 I’m interested in Math,Pyhsics,Music and Coding
 - 🌱 I’m Cs junior at Bilkent University
 - 📫 You can reach me by furkanbasibuyuk19@gmail.com
--
 
 <!---
 Furkan-Basibuyuk/Furkan-Basibuyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
